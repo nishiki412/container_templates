@@ -1,5 +1,5 @@
 {
-  "name": "sample-cuda-12.2-dev",
+  "name": "uv-cuda12.6-pytorch-template",
   "build": {
     "dockerfile": "./Dockerfile"
   },
